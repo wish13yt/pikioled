@@ -31,8 +31,8 @@ body, main, footer {
 body {
     background-image: url("https://f.feridinha.com/lZf92.png");
 }
-.logo {
-    background-color: white
+.logo > a {
+    content: url("https://pikidiary.lol/img/nikki-dark.svg")
 }
 span, label {
     color:white
@@ -43,8 +43,8 @@ span, label {
 body {
     background-image: url("https://f.feridinha.com/lZf92.png");
 }
-.logo {
-    background-color: white
+.logo > a {
+    content: url("https://pikidiary.lol/img/nikki-dark.svg")
 }
 label, span {
     color:white
