@@ -6,8 +6,8 @@
 @author         Wish
 ==/UserStyle== */
 
-@-moz-document domain("pikidiary.lol") {
-    .dark, .action-button-gray, .tabs, .bar, .post-box, header, .action-button-gray, main, .bio, .info, .tab-content, .post-content, footer, .post-name, .posts {
-        background-image: url("https://f.feridinha.com/lZf92.png");
-     }
-    }
+@-moz-document url-prefix("pikidiary.lol/users/") {
+body, .dark, .action-button-gray, .tabs, .bar, .post-box, header, .action-button-gray, main, .bio, .info, .tab-content, .post-content, footer, .post-name, .posts {
+    background-image: url("https://f.feridinha.com/lZf92.png");
+}
+}
